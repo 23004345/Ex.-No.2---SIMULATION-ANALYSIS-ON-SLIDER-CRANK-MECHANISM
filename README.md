@@ -43,11 +43,12 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
-## Output
+## Output![Screenshot 2024-01-03 194440](https://github.com/23004345/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/138849203/de963177-5e53-4e77-9284-bba6601ed90a)
 
 
-### Name:
-### Register Number: 
+
+### Name:DEVESH S
+### Register Number: 23004345
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
